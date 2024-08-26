@@ -1,8 +1,0 @@
-[build]
-  publish = "public"
-  command = "php build.php"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.php"
-  status = 200
